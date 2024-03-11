@@ -229,7 +229,7 @@ print(le.inverse_transform(x_single_prediction))
 ![image](https://github.com/Pravinrajj/nn-classification/assets/117917674/50645241-a554-4434-ac14-f277e5079b65)
 
 ### Confusion Matrix
-![image](https://github.com/Yamunaasri/nn-classification/assets/115707860/46869467-f7be-4af2-a70c-df61e221a909)
+![image](https://github.com/Pravinrajj/nn-classification/assets/117917674/602251a6-9b70-4756-ac28-64b87fa3e98c)
 
 ### New Sample Data Prediction
 ![image](https://github.com/Pravinrajj/nn-classification/assets/117917674/a7159084-e04d-4bbd-b15f-e64264e0dec3)
